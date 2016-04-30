@@ -1,0 +1,35 @@
+@import url(../../../node_modules/normalize.css/normalize.css);
+/*
+ * Colors
+ * ========================================================================== */
+/*
+ * Typography
+ * ========================================================================== */
+/*
+ * Layout
+ * ========================================================================== */
+/*
+ * Media queries breakpoints
+ * ========================================================================== */
+/* Extra small screen / phone */
+/* Small screen / tablet */
+/* Medium screen / desktop */
+/* Large screen / wide desktop */
+/*
+ * Base styles
+ * ========================================================================== */
+html {
+  color: #222;
+  font-weight: 100;
+  font-size: 1em;
+  /* ~16px; */
+  font-family: "Segoe UI", "HelveticaNeue-Light", sans-serif;
+  line-height: 1.375;
+  /* ~22px */ }
+
+.container {
+  margin: 0 auto;
+  padding: 0 0 40px;
+  max-width: 1000px; }
+
+/*# sourceMappingURL=App.css.map */

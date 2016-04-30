@@ -1,0 +1,24 @@
+{
+  "name": "gallery_reactjs",
+  "description": "Galeria con reactjs",
+  "main": "index.js",
+  "authors": [
+    "anlijudavid"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "reactjs"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "blueimp-gallery": "^2.20.0"
+  }
+}
